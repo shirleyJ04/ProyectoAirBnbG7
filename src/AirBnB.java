@@ -11,8 +11,10 @@ public class AirBnB {
     static Scanner sc = new Scanner(System.in);
     private ArrayList<Alojamiento> alojamientos;
     private ArrayList<Reserva> reservas;
+    private Pago pago;
     private ArchAlojamientos archivoAlojamientos;
     private ArchReservas archivoReservas;
+
 
 
     public static void main(String[] args) throws IOException {
