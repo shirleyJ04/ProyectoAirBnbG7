@@ -1,0 +1,4 @@
+200;34.5;2;Quito;Kennedy;true;┴┬┴┤旦凸旦├┬┴┬
+1;26.3;3;Ambato;Banios;true;||旦||
+2;35.5;4;Cotopaxi;ParqueCotopaxi;true;旦┬─┬旦
+3;24.4;5;Ibarra;Centro;true;≡〒益 〒≡
